@@ -1,0 +1,576 @@
+[
+  {
+    "id": 1,
+    "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "price": 109.95,
+    "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+    "category": "bags",
+    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    }
+  },
+  {
+    "id": 2,
+    "title": "Mens Casual Premium Slim Fit T-Shirts ",
+    "price": 22.3,
+    "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+    "rating": {
+      "rate": 4.1,
+      "count": 259
+    }
+  },
+  {
+    "id": 3,
+    "title": "Mens Cotton Jacket",
+    "price": 55.99,
+    "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+    "rating": {
+      "rate": 4.7,
+      "count": 500
+    }
+  },
+  {
+    "id": 4,
+    "title": "Mens Casual Slim Fit",
+    "price": 15.99,
+    "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+    "rating": {
+      "rate": 2.1,
+      "count": 430
+    }
+  },
+  {
+    "id": 5,
+    "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "price": 695,
+    "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+    "category": "women's clothing",
+    "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+    "rating": {
+      "rate": 4.6,
+      "count": 400
+    }
+  },
+  {
+    "id": 6,
+    "title": "Solid Gold Petite Micropave ",
+    "price": 168,
+    "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+    "category": "jewelery",
+    "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+    "rating": {
+      "rate": 3.9,
+      "count": 70
+    }
+  },
+  {
+    "id": 7,
+    "title": "White Gold Plated Princess",
+    "price": 9.99,
+    "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+    "category": "jewelery",
+    "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+    "rating": {
+      "rate": 3,
+      "count": 400
+    }
+  },
+  {
+    "id": 8,
+    "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+    "price": 10.99,
+    "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+    "category": "jewelery",
+    "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+    "rating": {
+      "rate": 1.9,
+      "count": 100
+    }
+  },
+  {
+    "id": 9,
+    "title": "WD 2TB Elements Portable External Hard Drive - USB 3.0 ",
+    "price": 64,
+    "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+    "rating": {
+      "rate": 3.3,
+      "count": 203
+    }
+  },
+  {
+    "id": 10,
+    "title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+    "price": 109,
+    "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+    "rating": {
+      "rate": 2.9,
+      "count": 470
+    }
+  },
+  {
+    "id": 11,
+    "title": "Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5",
+    "price": 109,
+    "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
+    "rating": {
+      "rate": 4.8,
+      "count": 319
+    }
+  },
+  {
+    "id": 12,
+    "title": "WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
+    "price": 114,
+    "description": "Expand your PS4 gaming experience, Play anywhere Fast and easy, setup Sleek design with high capacity, 3-year manufacturer's limited warranty",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
+    "rating": {
+      "rate": 4.8,
+      "count": 400
+    }
+  },
+  {
+    "id": 13,
+    "title": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
+    "price": 599,
+    "description": "21. 5 inches Full HD (1920 x 1080) widescreen IPS display And Radeon free Sync technology. No compatibility for VESA Mount Refresh Rate: 75Hz - Using HDMI port Zero-frame design | ultra-thin | 4ms response time | IPS panel Aspect ratio - 16: 9. Color Supported - 16. 7 million colors. Brightness - 250 nit Tilt angle -5 degree to 15 degree. Horizontal viewing angle-178 degree. Vertical viewing angle-178 degree 75 hertz",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
+    "rating": {
+      "rate": 2.9,
+      "count": 250
+    }
+  },
+  {
+    "id": 14,
+    "title": "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ",
+    "price": 999.99,
+    "description": "49 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
+    "rating": {
+      "rate": 2.2,
+      "count": 140
+    }
+  },
+  {
+    "id": 15,
+    "title": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
+    "price": 56.99,
+    "description": "Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweigt and Warm.Stand Collar Liner jacket, keep you warm in cold weather. Zippered Pockets: 2 Zippered Hand Pockets, 2 Zippered Pockets on Chest (enough to keep cards or keys)and 1 Hidden Pocket Inside.Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design: Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and water,for a comfortable fit. 3 in 1 Detachable Design provide more convenience, you can separate the coat and inner as needed, or wear it together. It is suitable for different season and help you adapt to different climates",
+    "category": "women's clothing",
+    "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+    "rating": {
+      "rate": 2.6,
+      "count": 235
+    }
+  },
+  {
+    "id": 16,
+    "title": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
+    "price": 29.95,
+    "description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort / 2 pockets of front, 2-For-One Hooded denim style faux leather jacket, Button detail on waist / Detail stitching at sides, HAND WASH ONLY / DO NOT BLEACH / LINE DRY / DO NOT IRON",
+    "category": "women's clothing",
+    "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
+    "rating": {
+      "rate": 2.9,
+      "count": 340
+    }
+  },
+  {
+    "id": 17,
+    "title": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
+    "price": 39.99,
+    "description": "Lightweight perfet for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design. Button and zipper front closure raincoat, fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things, it covers the hips, and the hood is generous but doesn't overdo it.Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.",
+    "category": "women's clothing",
+    "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
+    "rating": {
+      "rate": 3.8,
+      "count": 679
+    }
+  },
+  {
+    "id": 18,
+    "title": "MBJ Women's Solid Short Sleeve Boat Neck V ",
+    "price": 9.85,
+    "description": "95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach, Lightweight fabric with great stretch for comfort, Ribbed on sleeves and neckline / Double stitching on bottom hem",
+    "category": "women's clothing",
+    "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+    "rating": {
+      "rate": 4.7,
+      "count": 130
+    }
+  },
+  {
+    "id": 19,
+    "title": "Opna Women's Short Sleeve Moisture",
+    "price": 7.95,
+    "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
+    "category": "women's clothing",
+    "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+    "rating": {
+      "rate": 4.5,
+      "count": 146
+    }
+  },
+  {
+    "id": 20,
+    "title": "DANVOUY Womens T Shirt Casual Cotton Short",
+    "price": 12.99,
+    "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+    "category": "women's clothing",
+    "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+    "rating": {
+      "rate": 3.6,
+      "count": 145
+    }
+  },
+  {
+    "id": 21,
+    "title": "Men's T-shirt",
+    "image": "https://img.freepik.com/free-photo/portrait-handsome-smiling-stylish-hipster-lambersexual-model_158538-17686.jpg",
+    "rating": 4.5,
+    "price": 300,
+    "category": "men's clothing"
+  },
+  {
+    "id": 22,
+    "title": "Women's Jeans",
+    "image": "https://img.freepik.com/free-photo/woman-dancer-posing-studio_1303-10927.jpg?w=360&t=st=1704398085~exp=1704398685~hmac=963574be857645c8cee1429c4fce436a358f0ad2e5682faee2750fee6513baea",
+    "rating": 4.2,
+    "price": 450,
+    "category": "women's clothing"
+  },
+  {
+    "id": 23,
+    "title": "Sports Shoes",
+    "image": "https://img.freepik.com/free-photo/sneakers_1122-2301.jpg?w=996&t=st=1704398050~exp=1704398650~hmac=e848f392daf48743510d17f37d5c28e5b422e6a79aa642300e6552451c365686",
+    "rating": 4.8,
+    "price": 600
+  },
+  {
+    "id": 24,
+    "title": "Leather Jacket",
+    "image": "https://img.freepik.com/free-photo/men-casual-trendy-fashion-with-black-jacket-accessories_1357-163.jpg?w=996&t=st=1704397997~exp=1704398597~hmac=0909c52cf4861c5b012be6e19c5e598b17aaab10f92986a0719e46ad0f1b1263",
+    "rating": 4.7,
+    "price": 800
+  },
+  {
+    "id": 25,
+    "title": "Casual Watch",
+    "image": "https://img.freepik.com/free-photo/fashion-portrait-young-businessman-handsome-model-man-casual-cloth-suit-with-accessories-hands_158538-9456.jpg?w=900&t=st=1704397972~exp=1704398572~hmac=46ed0f25180a6cb3beb18419f334ed9968743ef0010129643b6fbeb24c578b60",
+    "rating": 4.3,
+    "price": 150,
+    "category": "men's clothing"
+  },
+  {
+    "id": 26,
+    "title": "Men's T-shirt",
+    "image": "https://img.freepik.com/free-photo/handsome-model-man-posing_144627-42750.jpg?w=360&t=st=1704397947~exp=1704398547~hmac=44f4df3fbf487810d9e340f151f4d4d11c2407cbd258c6045c4aa603d177fe1d",
+    "rating": 4.5,
+    "price": 300,
+    "category": "men's clothing"
+  },
+  {
+    "id": 27,
+    "title": "Men's Jeans",
+    "image": "https://img.freepik.com/free-photo/close-up-stylish-traveler-jeans_23-2148357267.jpg?w=996&t=st=1704397919~exp=1704398519~hmac=0f7112e5b46726fd830e928f62b23145a4a30c8e075dc0dd3e1dda22ae4374f6",
+    "rating": 4.2,
+    "price": 450,
+    "category": "men's clothing"
+  },
+  {
+    "id": 28,
+    "title": "Men's Sports Shoes",
+    "image": "https://img.freepik.com/free-photo/fashion-shoes-sneakers_1203-7528.jpg?w=996&t=st=1704397888~exp=1704398488~hmac=01ab20a144de7bbaa4ed81c5ccd36e3cf552931b9b4978d4eae6f99d6656e1d3",
+    "rating": 4.8,
+    "price": 600,
+    "category": "men's clothing"
+  },
+  {
+    "id": 29,
+    "title": "Women's Blouse",
+    "image": "https://img.freepik.com/free-photo/young-beautiful-female-posing-with-hands-waist-shirt-looking-charming_176474-113440.jpg?w=996&t=st=1704397851~exp=1704398451~hmac=9d9d3aaebe53c0099c1fc52dfc24a78160af970a19b3c475e80f9cb7b7e9672f",
+    "rating": 4.6,
+    "price": 350,
+    "category": "women's clothing"
+  },
+  {
+    "id": 30,
+    "title": "Women's Skirt",
+    "image": "../img/json_data/10.jpg",
+    "rating": 4.4,
+    "price": 500,
+    "category": "women's clothing"
+  },
+  {
+    "id": 31,
+    "title": "Women's High Heels",
+    "image": "https://img.freepik.com/free-photo/high-heels-black-velvet_53876-102771.jpg?w=740&t=st=1704397816~exp=1704398416~hmac=4854aab9926ea46b77d636c3bd0c226aac704d7e20925f82f331f26004555ba3",
+    "rating": 4.9,
+    "price": 700,
+    "category": "women's clothing"
+  },
+  {
+    "id": 32,
+    "title": "Kids' Cartoon T-shirt",
+    "image": "https://img.freepik.com/free-photo/front-view-cute-boy-playing-vr-segway-white-t-shirt-blue-floor_179666-984.jpg?w=360&t=st=1704397794~exp=1704398394~hmac=755cb81a9caa208aec57dae45607cd19859cf03c0575e18f82caf927f0261290",
+    "rating": 4.7,
+    "price": 200,
+    "category": "kid's clothing"
+  },
+  {
+    "id": 33,
+    "title": "Kids' Jeans",
+    "image": "https://img.freepik.com/free-photo/full-length-portrait-cute-little-teen-girl-stylish-jeans-clothes-looking-camera-smiling-against-white-studio-wall-kids-fashion-concept_155003-17318.jpg?w=360&t=st=1704397764~exp=1704398364~hmac=4c73723c5d1f58b4ff02367e1f1b3cbab392389925a6374f5104a16a0ed17300",
+    "rating": 4.2,
+    "price": 350,
+    "category": "kid's clothing"
+  },
+  {
+    "id": 34,
+    "title": "Kids' Sneakers",
+    "image": "https://img.freepik.com/free-photo/baby-shoes_1203-6837.jpg?w=996&t=st=1704397740~exp=1704398340~hmac=17f8997015cb397f75d2d9bebabcdd6270fb82bda10ff6f2dbf16ac6a847dbb2",
+    "rating": 4.5,
+    "price": 400,
+    "category": "kid's clothing"
+  },
+  {
+    "id": 35,
+    "title": "Men's Hooded Sweatshirt",
+    "image": "https://img.freepik.com/free-photo/medium-shot-man-wearing-black-hoodie_23-2149359861.jpg?w=360&t=st=1704397716~exp=1704398316~hmac=4b257655f336a4d7b9298e8af16846e7b73f087d87d984a4c748ca0e8d9d4ef0",
+    "rating": 4.3,
+    "price": 25.99,
+    "category": "men's clothing"
+  },
+  {
+    "id": 36,
+    "title": "Men's Chinos",
+    "image": "https://img.freepik.com/free-photo/full-shot-man-walking-church_23-2150755567.jpg?w=360&t=st=1704397691~exp=1704398291~hmac=39f84ed58e1dce712b13faaece34e6b1893cac0760cb4715f2c0e9c8a8caa1a0",
+    "rating": 4.0,
+    "price": 34.5,
+    "category": "men's clothing"
+  },
+  {
+    "id": 37,
+    "title": "Men's Running Shoes",
+    "image": "https://img.freepik.com/free-photo/man-runner-tying-lace-shoes-sport-training-road_23-2148123967.jpg?w=996&t=st=1704397659~exp=1704398259~hmac=b48d77fd08437a131bbdf97e0677d795079adaab1d2d1fdaaf80f7c03ebc57b6",
+    "rating": 4.5,
+    "price": 55.0,
+    "category": "men's clothing"
+  },
+  {
+    "id": 38,
+    "title": "Men's Formal Shirt",
+    "image": "https://img.freepik.com/free-photo/portrait-elegant-male-shirt-isolated-grey-background_613910-15762.jpg?w=360&t=st=1704397623~exp=1704398223~hmac=3b6000f57193174c24fc51a01e32bf15d0d72e95c7f3464dda0e9194d2b1adf1",
+    "rating": 4.2,
+    "price": 29.99,
+    "category": "men's clothing"
+  },
+  {
+    "id": 39,
+    "title": "Men's Winter Jacket",
+    "image": "https://img.freepik.com/free-photo/young-attractive-male-posing-nature_181624-46384.jpg?w=360&t=st=1704397593~exp=1704398193~hmac=766bf947b20e079833207f6a95f006f8acba72fbc7b731d9e4c6747f02a7cb54",
+    "rating": 4.7,
+    "price": 79.95,
+    "category": "men's clothing"
+  },
+  {
+    "id": 40,
+    "title": "Men's Dress Shoes",
+    "image": "https://img.freepik.com/premium-photo/men-s-classic-shoes-with-natural-leather-men-s-shoes-classic-suit_173815-16968.jpg?w=360",
+    "rating": 4.4,
+    "price": 49.5,
+    "category": "men's clothing"
+  },
+  {
+    "id": 41,
+    "title": "Men's Graphic T-shirt",
+    "image": "https://img.freepik.com/free-photo/young-guy-posing-serious-with-skateboard_23-2147665448.jpg?w=360&t=st=1704397524~exp=1704398124~hmac=d64f09377a6ac36e89c8978b5f71005ef673655d6c1a523564cd37aea768a3d0",
+    "rating": 4.6,
+    "price": 18.99,
+    "category": "men's clothing"
+  },
+  {
+    "id": 42,
+    "title": "Men's Cargo Shorts",
+    "image": "https://img.freepik.com/free-photo/man-wearing-beige-shorts-close-up_53876-125260.jpg?w=740&t=st=1704397493~exp=1704398093~hmac=c982866f8dada1cebdf06f5bd64668fd609b822f146d466e2e0387f9dd144322",
+    "rating": 4.0,
+    "price": 22.75,
+    "category": "men's clothing"
+  },
+  {
+    "id": 43,
+    "title": "Men's Trousers",
+    "image": "https://img.freepik.com/free-photo/pants-hanger-with-green-background_23-2150264165.jpg?w=360&t=st=1704397462~exp=1704398062~hmac=2c537ea161a44b7abc8803bfb6fcd64c716295eea09ade07bddc3a003b5c417c",
+    "rating": 4.8,
+    "price": 12.99,
+    "category": "men's clothing"
+  },
+  {
+    "id": 44,
+    "title": "Women's Maxi Dress",
+    "image": "https://img.freepik.com/free-photo/portrait-beautiful-cute-brunette-woman-model-casual-summer-clothes-with-no-makeup-isolated-white_158538-14609.jpg?w=740&t=st=1704397435~exp=1704398035~hmac=0c45c19daa6ed265b7b8ced73ce548308be5bd2f08a937f6bd39492c2f5d34a0",
+    "rating": 4.8,
+    "price": 39.95,
+    "category": "women's clothing"
+  },
+  {
+    "id": 45,
+    "title": "Women's Cardigan",
+    "image": "https://img.freepik.com/free-photo/fascinating-woman-winter-fur-coat-posing_273443-4008.jpg?w=996&t=st=1704397408~exp=1704398008~hmac=1702529dbd8fceffc55508fd96d8dc4995c4301d54e54f45b1059d16db2b9dfe",
+    "rating": 4.1,
+    "price": 28.75,
+    "category": "women's clothing"
+  },
+  {
+    "id": 46,
+    "title": "Women's Ankle Boots",
+    "image": "https://img.freepik.com/free-photo/shot-elegant-beautiful-leather-heels-isolated-white_181624-32574.jpg?w=740&t=st=1704397370~exp=1704397970~hmac=5f0a1097d54f287ada783fd466b8e557f6f1da3d685bece2b252b8a34c54f7c7",
+    "rating": 4.6,
+    "price": 49.99,
+    "category": "women's clothing"
+  },
+  {
+    "id": 47,
+    "title": "Women's Leggings",
+    "image": "https://img.freepik.com/free-photo/fit-young-girl-dark-blue-sportswear-exercising-park_93675-133706.jpg?w=996&t=st=1704397246~exp=1704397846~hmac=79cfa30eb9e9b3545016d8f8e0d74cc40f416b170d3ca63a7e7ef7e2eb0fd90d",
+    "rating": 4.4,
+    "price": 18.5,
+    "category": "women's clothing"
+  },
+  {
+    "id": 48,
+    "title": "Women's Blouse",
+    "image": "https://img.freepik.com/free-photo/young-woman-wearing-trendy-hairstyle_23-2149478922.jpg?w=360&t=st=1704397204~exp=1704397804~hmac=43e411df172547097e61e040bdb9583eaa6a761fc61256aff56a52bf6e00d6f8",
+    "rating": 4.3,
+    "price": 33.99,
+    "category": "women's clothing"
+  },
+  {
+    "id": 49,
+    "title": "Women's Sunglasses",
+    "image": "https://img.freepik.com/premium-photo/closeup-front-portrait-sexy-blonde-with-round-eyeglasses-big-lipswavy-hair-burgundy-hat_246930-3218.jpg?w=360",
+    "rating": 4.7,
+    "price": 20.0,
+    "category": "women's clothing"
+  },
+  {
+    "id": 50,
+    "title": "Women's Sandals",
+    "image": "https://img.freepik.com/free-photo/female-dress-sitting-with-her-hand-her-bag_181624-3305.jpg?w=360&t=st=1704397121~exp=1704397721~hmac=f4a91f3c792561fe6f9ed41ff0974d48dd0be840b05f2a6d1735e8059c370849",
+    "rating": 4.5,
+    "price": 27.99,
+    "category": "women's clothing"
+  },
+  {
+    "id": 51,
+    "title": "Women's Watch",
+    "image": "https://img.freepik.com/free-photo/elegant-watch-with-silver-golden-chain-isolated_181624-27080.jpg?w=740&t=st=1704397333~exp=1704397933~hmac=e4cc1ac4749f1d843c70c870ea727fe28fc9b167d43a1427ee190041c9a0e8fa",
+    "rating": 4.2,
+    "price": 44.5,
+    "category": "women's clothing"
+  },
+  {
+    "id": 52,
+    "title": "Women's Backpack",
+    "image": "https://img.freepik.com/free-photo/vertical-photo-young-student-turning-camera-high-quality-photo_144627-74493.jpg?w=360&t=st=1704397097~exp=1704397697~hmac=c7bfbeabe76217243b0e1e0c2f52387200ca25ae4888ec511efcb81925a1ab0a",
+    "rating": 4.9,
+    "price": 35.0,
+    "category": "women's clothing"
+  },
+  {
+    "id": 53,
+    "title": "Kids' Dinosaur Pajamas",
+    "image": "https://img.freepik.com/free-photo/kid-playing-with-toy-dinosaurs_23-2148131077.jpg?w=996&t=st=1704397071~exp=1704397671~hmac=4f4a4784c53fda75000fb05be22d8819504f04d48e85aa8d0726e22ba53326bb",
+    "rating": 4.9,
+    "price": 17.99,
+    "category": "kid's clothing"
+  },
+  {
+    "id": 54,
+    "title": "Kids' Tutu Skirt",
+    "image": "https://img.freepik.com/free-photo/smiling-ballerina-girl-with-crossed-leg-holding-white-her-dress_23-2147856943.jpg?w=360&t=st=1704397042~exp=1704397642~hmac=9baf1ccee0fd602f17444a99b2c9187a4eed5fd22bde17049a923d39c6123a12",
+    "rating": 4.2,
+    "price": 14.75,
+    "category": "kid's clothing"
+  },
+  {
+    "id": 55,
+    "title": "Kids' Superhero T-shirt",
+    "image": "https://img.freepik.com/free-photo/superheroes-pointing-with-index-finger_1134-617.jpg?w=996&t=st=1704397006~exp=1704397606~hmac=defc7fc7a815b386499d8e90a33bfac362d2c80654f3c9dc7ff3472ad8a75737",
+    "rating": 4.5,
+    "price": 11.99,
+    "category": "kid's clothing"
+  },
+  {
+    "id": 56,
+    "title": "Kids' Denim Shorts",
+    "image": "https://img.freepik.com/free-photo/full-shot-girl-studio-with-skateboard_23-2149853381.jpg?w=360&t=st=1704396960~exp=1704397560~hmac=c90f866ee495e826a566ece04460ea7f069c66c21040c8c2a08dd941c01e9fb5",
+    "rating": 4.1,
+    "price": 19.5,
+    "category": "kid's clothing"
+  },
+  {
+    "id": 57,
+    "title": "Kids' Sneakers",
+    "image": "https://img.freepik.com/free-photo/newborn-concept-with-couple-holding-shoes-hands_23-2147665675.jpg?w=996&t=st=1704396920~exp=1704397520~hmac=e94fb34a727b78857f249bc8559c519df12d23a0a20eb16ad11d39a93b2e872c",
+    "rating": 4.5,
+    "price": 29.99,
+    "category": "kid's clothing"
+  },
+  {
+    "id": 58,
+    "title": "Kids' Unicorn Onesie",
+    "image": "https://img.freepik.com/free-photo/sweet-princess-her-little-kingdom_329181-9377.jpg?w=360&t=st=1704396895~exp=1704397495~hmac=2400bb9cf6f2390d0896bc7f617f29251ae403ae14d6bef841ae1e76d87026d6",
+    "rating": 4.6,
+    "price": 22.99,
+    "category": "kid's clothing"
+  },
+  {
+    "id": 59,
+    "title": "Kids' Backpack",
+    "image": "https://img.freepik.com/free-photo/little-school-girl-with-books-bag-isolated-studio_1303-31044.jpg?w=360&t=st=1704395933~exp=1704396533~hmac=4a4b60fda7a2469c52ae8e0b8a3b7473f9c2f60e215098fa6e0e1a41abe2c7b8",
+    "rating": 4.4,
+    "price": 18.75,
+    "category": "kid's clothing"
+  },
+  {
+    "id": 60,
+    "title": "Kids' Raincoat",
+    "image": "https://img.freepik.com/free-photo/portrait-little-boy-rain-coat_23-2148619353.jpg?w=740&t=st=1704395962~exp=1704396562~hmac=947476e0b74026c51ffc3f5bbe840078bafb4042a8aed82fbb64e1f54674f35d",
+    "rating": 4.0,
+    "price": 14.99,
+    "category": "kid's clothing"
+  },
+  {
+    "id": 61,
+    "title": "Kids' Watch",
+    "image": "https://img.freepik.com/free-photo/surprise-smiling-boy-holding-white-clock-hand-looking-camera-against-yellow-background_23-2148089279.jpg?w=826&t=st=1704396733~exp=1704397333~hmac=cbbc9d7b8e5ede48cc79e1094d1287c515b1c5beda892a3e443fbc227529c31e",
+    "rating": 4.8,
+    "price": 9.95,
+    "category": "kid's clothing"
+  },
+  {
+    "id": 62,
+    "title": "Kids' School Shoes",
+    "image": "https://img.freepik.com/free-photo/faceless-person-standing-beside-schoolbag-wooden-table_23-2148207664.jpg?w=996&t=st=1704396680~exp=1704397280~hmac=b791153b1b53e2429f5bdd176b17b9dea1e948f4a697569e71fc49a7550e487d",
+    "rating": 4.2,
+    "price": 24.5,
+    "category": "kid's clothing"
+  }
+]
