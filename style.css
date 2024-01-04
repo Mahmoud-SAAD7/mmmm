@@ -498,4 +498,48 @@ img {
 h2 {
   font-size: 1.5em; /* Example using em unit for font size */
 }
+/* Media query for tablets */
+@media (max-width: 768px) {
+  /* Example: Adjust form input styles for tablets */
+  input[type="text"] {
+    width: 80%;
+    padding: 8px;
+    margin-bottom: 10px;
+  }
 
+  /* Example: Adjust list item styles for tablets */
+  ul li {
+    font-size: 14px;
+  }
+
+  /* Example: Create a simple two-column grid for tablets */
+  .grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+  }
+}
+
+/* Media query for mobile phones */
+@media (max-width: 480px) {
+  /* Example: Adjust form input styles for mobile phones */
+  input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+
+  /* Example: Adjust list item styles for mobile phones */
+  ul li {
+    font-size: 12px;
+  }
+
+  /* Example: Create a single column grid for mobile phones */
+  .grid-container {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 10px;
+  }
+}
+
+/* Additional responsive styles for other elements */
