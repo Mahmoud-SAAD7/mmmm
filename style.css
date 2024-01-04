@@ -438,3 +438,64 @@ footer section:nth-child(3) div a {
   margin-left: 30px;
   font-size: 24px;
 }
+@media (max-width: 768px) {
+  .cart-box {
+    /* responsive styles for tablets */
+    padding: 10px;
+    font-size: 16px;
+  }
+
+  /* Example: Adjust navigation styles for tablets */
+  .main-nav {
+    display: flex;
+    flex-direction: column;
+  }
+
+  /* Example: Adjust header font size for tablets */
+  h1 {
+    font-size: 2em;
+  }
+
+  /* Example: Adjust button styles for tablets */
+  .btn {
+    padding: 8px 15px;
+    font-size: 14px;
+  }
+}
+
+/* Media query for mobile phones */
+@media (max-width: 480px) {
+  .cart-box {
+    /* responsive styles for mobile phones */
+    padding: 5px;
+    font-size: 14px;
+  }
+
+  /* Example: Hide navigation on mobile phones */
+  .main-nav {
+    display: none;
+  }
+
+  /* Example: Adjust header font size for mobile phones */
+  h1 {
+    font-size: 1.5em;
+  }
+
+  /* Example: Adjust button styles for mobile phones */
+  .btn {
+    padding: 6px 12px;
+    font-size: 12px;
+  }
+}
+
+/* Example of responsive image */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Example of responsive font size */
+h2 {
+  font-size: 1.5em; /* Example using em unit for font size */
+}
+
